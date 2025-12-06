@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Chelsea Kathleen Ocampo
+# FILENAME: cnn.py
+# SPECIFICATION: This program uses a CNN model to take in handwritten digits,
+#   and fit them with the model.
 # FOR: CS 4210 - Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 mins
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
